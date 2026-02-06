@@ -12,3 +12,8 @@
 
 .DS_Store
 Thumbs.db
+
+# Unity build outputs
+*.exe
+*.dll
+*_Data/
