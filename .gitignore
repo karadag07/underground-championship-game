@@ -17,3 +17,14 @@ Thumbs.db
 *.exe
 *.dll
 *_Data/
+
+
+/Underground Championship_Data/
+/*.exe
+/Build/
+/Builds/
+Library/
+Temp/
+Obj/
+Logs/
+UserSettings/
